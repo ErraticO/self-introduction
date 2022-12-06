@@ -21,7 +21,7 @@ class SelfIntroduction:
         self.data_engineering = ['Mysql', 'Bigquery', 'MongoDB', 
                                  'Cloud-Storage', 'PostgreSQL']
         self.feature_store = ['VertexAi-Features', 'Pipeline']
-        self.data_science = ['Python', 'Scikit-Lear', 'Tensorflow', 
+        self.data_science = ['Python', 'Scikit-Learn', 'Tensorflow', 
                              'Pytorch', 'Gensim', 'Opencv', 'Librosa',
                              'Gephi', 'TigerGraph']
         self.mlops = ['Seldon-Core', 'VertexAi-Deploy', 'Kubernetes', 
