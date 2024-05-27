@@ -17,6 +17,7 @@
 ```python
 class SelfIntroduction:
     def __init__(self):
+        self.programming_language = ['Python', 'Golang', 'Rust']
         self.data_engineering = ['Mysql', 'Bigquery', 'MongoDB', 
                                  'Cloud-Storage', 'PostgreSQL']
         self.feature_store = ['VertexAi-Features', 'Pipeline']
